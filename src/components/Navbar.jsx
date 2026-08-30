@@ -8,6 +8,7 @@ import {
   Zap,
   Sparkles,
   BookOpen,
+  Menu,
 } from 'lucide-react';
 import { useHotel } from '../context/HotelContext';
 import { formatCurrency } from '../utils/formatters';
